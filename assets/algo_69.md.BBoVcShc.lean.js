@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as l,ah as h}from"./chunks/framework.B7r58Iye.js";const E=JSON.parse('{"title":"69. x 的平方根","description":"","frontmatter":{},"headers":[],"relativePath":"algo/69.md","filePath":"algo/69.md"}'),t={name:"algo/69.md"};function n(e,i,k,p,r,d){return l(),a("div",null,[...i[0]||(i[0]=[h("",50)])])}const c=s(t,[["render",n]]);export{E as __pageData,c as default};

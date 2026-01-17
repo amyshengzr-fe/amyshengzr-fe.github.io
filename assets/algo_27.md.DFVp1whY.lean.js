@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as l,ah as n}from"./chunks/framework.B7r58Iye.js";const o=JSON.parse('{"title":"27. 移除元素","description":"","frontmatter":{},"headers":[],"relativePath":"algo/27.md","filePath":"algo/27.md"}'),t={name:"algo/27.md"};function h(e,s,p,k,d,r){return l(),a("div",null,[...s[0]||(s[0]=[n("",52)])])}const E=i(t,[["render",h]]);export{o as __pageData,E as default};

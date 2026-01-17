@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.B7r58Iye.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"share/ai/prompt/index.md","filePath":"share/ai/prompt/index.md"}'),r={name:"share/ai/prompt/index.md"};function o(n,s,i,p,c,d){return a(),t("div")}const f=e(r,[["render",o]]);export{_ as __pageData,f as default};
